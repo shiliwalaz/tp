@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tp2_2</string>
+
+    <string name="Count">Count</string>
+
+    <string name="count_initial">0</string>
+    <string name="edittext">edit text</string>
+
+</resources>
